@@ -24,7 +24,7 @@ I am an Embedded Developer driven by a deep curiosity for what happens "under th
 | **Microcontrollers** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![ARM Cortex](https://img.shields.io/badge/ARM-0091BD?style=flat-square&logo=arm&logoColor=white) ![8051](https://img.shields.io/badge/8051-Architecture-blue?style=flat-square) |
 | **Connectivity** | ![UART](https://img.shields.io/badge/UART-Protocol-green?style=flat-square) ![I2C](https://img.shields.io/badge/I2C-Protocol-orange?style=flat-square) ![MQTT](https://img.shields.io/badge/MQTT-3C78AF?style=flat-square&logo=mqtt&logoColor=white) ![BLE](https://img.shields.io/badge/BLE-0082FC?style=flat-square&logo=bluetooth&logoColor=white) |
 | **Specialties** | Sensorless Motor Control (FOC), RF Decoding, Flash Memory Management |
-| **Lab Tools** | Keil uVision, STM32CubeIDE, Digital Oscilloscopes, Logic Analyzers |
+| **Lab Tools** | Keil uVision, STM32CubeIDE, Logic Analyzers |
 
 ---
 
@@ -39,15 +39,14 @@ I am an Embedded Developer driven by a deep curiosity for what happens "under th
 ---
 
 ### 🎯 Current Learning Path
-*   Diving deeper into **Bluetooth Low Energy (BLE)** stack development.
-*   Refining **Sensorless FOC** algorithms for high-inertia motor systems.
-*   Integrating **FreeRTOS** for more complex multitasking firmware.
+*   🌱 Currently diving deeper into embedded systems and firmware design principles
+*   🧠 Continuously improving problem-solving and system-level thinking in embedded development
+*   🔍 Exploring new tools, workflows, and best practices in modern firmware engineering
 
-> "In the world of embedded systems, there is no magic—only logic, timing, and registers."
 
 ---
 
-### 📫 Let's Talk Metal
+### 📫 Get in Touch
 
 *   **Email:** manikanta.ch647@gmail.com
 
@@ -64,6 +63,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+> "In the world of embedded systems, there is no magic—only logic, timing, and registers."
 
 *   **LinkedIn:** [need add soon]
 -->
